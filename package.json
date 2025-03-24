@@ -2,7 +2,13 @@
 	"name": "lorang.agency",
 	"private": true,
 	"version": "0.0.1",
+	"description": "Lorang — The creative agency for B2B & B2C tech companies.",
 	"type": "module",
+	"license": "Apache",
+	"packageManager": "pnpm@10.6.5",
+	"engines": {
+		"pnpm": ">=9.0.0"
+	},
 	"scripts": {
 		"dev": "vite dev --host",
 		"build": "vite build",
